@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DecodeLabs Python Internship — Project 1: The To-Do List
 
 **Batch:** 2026 | **Track:** Python Programming — Industrial Training Kit
@@ -62,6 +62,3 @@ You'll see a menu:
 ## Author
 
 Python Programming Intern — DecodeLabs, 2026 Batch
-=======
-# DecodeLabs-Internship
->>>>>>> 3a74fe107f967819c637396fceea038bc719a8bb
